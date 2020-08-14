@@ -27,21 +27,21 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs/day03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs/day04" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\wb前端\java_9_web\imgs\day03" />
-      <recent name="D:\wb前端\java_9_web\imgs\day02\baidu" />
-      <recent name="D:\wb前端\java_9_web\imgs\day01\chuqiaozhuan" />
-      <recent name="D:\wb前端\java_9_web\imgs\guichuideng" />
-      <recent name="D:\wb前端\java_9_web\imgs" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\wb前端\java_9_web\imgs\day01" />
       <recent name="D:\wb前端\java_9_web\imgs\qingruan" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wb前端\java_9_web\imgs\day04" />
+      <recent name="D:\wb前端\java_9_web\imgs\day03\gif" />
+      <recent name="D:\wb前端\java_9_web\imgs\day03" />
+      <recent name="D:\wb前端\java_9_web\imgs\day02\baidu" />
+      <recent name="D:\wb前端\java_9_web\imgs\day01\chuqiaozhuan" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Demo6.html (1)">
@@ -79,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1597108591731</updated>
       <workItem from="1597108593075" duration="21503000" />
-      <workItem from="1597192779759" duration="25266000" />
+      <workItem from="1597192779759" duration="28643000" />
+      <workItem from="1597369827396" duration="8227000" />
     </task>
     <servers />
   </component>
